@@ -31,10 +31,9 @@ class Solution:
             else:
                 tail.next = l2
                 l2 = l2.next
-        if l2:
+        if l1:
             tail.next = l1
         elif l2:
             tail.next = l2
         
-        return dummy.next
-    
+        return empty.next
