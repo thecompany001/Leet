@@ -8,4 +8,3 @@ class Solution:
             two = temp
             
         return one
-            
