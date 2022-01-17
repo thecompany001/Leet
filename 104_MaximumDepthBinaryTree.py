@@ -7,6 +7,109 @@ class Solution(object):
         
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
     
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), self.maxDepth(node.right))
+        
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), self.maxDepth(node.right))
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), self.maxDepth(node.right))
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), self.maxDepth(node.right))
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), max(self.maxDepth(node.right))
+    
+    
+    
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), self.maxDepth(node.right))
+                       
+
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(node.left), self.maxDepth(node.right))
+                       
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+                       
+                       
+                       
+                       
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    
+
+class Solution(object):
+    def maxDepth(self, root):
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
 #DFS - Iterative
 class Solution(object):
     def maxDepth(self, root: TreeNode) -> int:
@@ -21,6 +124,39 @@ class Solution(object):
                 stack.append([node.left, depth + 1])
                 stack.append([node.right, depth + 1])
         return res
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+    
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+    
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+        
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+    
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+    
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+    
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+
+        
+        
         
 
 #BFS
@@ -43,3 +179,8 @@ class Solution(object):
 
             level += 1
         return level
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
