@@ -12,3 +12,4 @@ class Solution(object):
             n += 1
             if n == k:
                 return cur.val
+            cur = cur.right
