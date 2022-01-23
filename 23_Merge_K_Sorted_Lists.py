@@ -35,3 +35,78 @@ class Solution:
         if list2:
             tail.next = list2
         return dummy.next
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:

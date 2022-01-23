@@ -22,3 +22,102 @@ class Solution:
                 l -= 1
                 r += 1
         return res
+    
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:

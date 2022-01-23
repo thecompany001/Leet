@@ -9,3 +9,75 @@ class Solution:
             curSum += n
             maxSub = max(maxSub, curSum)
         return maxSub
+
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:

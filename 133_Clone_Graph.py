@@ -10,3 +10,87 @@ class Solution:
             oldToNew[node] = copy
             for nei in node.neighbors:
                 copy.neighbors.append(dfs(nei))
+                
+                
+                
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':

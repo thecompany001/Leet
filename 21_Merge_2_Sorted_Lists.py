@@ -37,3 +37,106 @@ class Solution:
             tail.next = l2
         
         return empty.next
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:

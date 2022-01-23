@@ -12,6 +12,7 @@ class Solution:
                 r += 1
         return maxP
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
@@ -27,6 +28,9 @@ class Solution:
                 r += l
         return maxP
 
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         l, r = 0, 1
@@ -40,3 +44,58 @@ class Solution:
                 l = r
                 r += l
         return maxP
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
