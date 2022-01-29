@@ -16,3 +16,106 @@ class Solution:
         
         dfs(0)
         return res
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+        
+        
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:

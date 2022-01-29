@@ -292,5 +292,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 class Solution(object):
     def maxDepth(self, root: TreeNode) -> int:
 
+                       
+                       
+                       
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+
+
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+
+                       
+                       
+                       
+                       
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+
+
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+class Solution(object):
+    def maxDepth(self, root: TreeNode) -> int:
+
 
 #BFS
