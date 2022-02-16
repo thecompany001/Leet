@@ -14,7 +14,7 @@ class Solution(object):
             
             while q:
                 row, col = q.popleft()
-                direction = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+                directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
                 
                 for dr, dc in directions:
                     r, c = row + dr, col + dc
@@ -23,7 +23,7 @@ class Solution(object):
                         grid[r][c] == "1" and
                         (r, c) not in visit):
                         q.append((r, c))
-                        visit.append((r, c))
+                        visit.add((r, c))
         
         for r in range(rows):
             for c in range(cols):
