@@ -18,6 +18,7 @@ class Solution(object):
     
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
 class Solution(object):
     def insert(self, intervals, newInterval):
         res = []
