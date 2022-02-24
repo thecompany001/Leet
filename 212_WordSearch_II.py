@@ -1,4 +1,4 @@
-class Trie:
+class TrieNode:
     def __init__(self):
         self.children = {}
         self.isWord = False
@@ -7,7 +7,7 @@ class Trie:
         cur = self
         for c in word:
             if c not in cur.children:
-                cur.children[c]TrieNode()
+                cur.children[c] = TrieNode()
             cur = cur.children[c]
         cur.isWord = True
         
@@ -16,7 +16,6 @@ class Trie:
 class Solution(object):
     def findWords(self, board, words):
         root = TrieNode()
-        
         for w in words:
             root.addWord(w)
         
@@ -24,8 +23,9 @@ class Solution(object):
         res, visit = set(), set()
         
         def dfs(r, c, node, word):
-            if (r < 0 or c < o or
-               (r, c) in visit or board[r][c] not in node.children):
+            if (r < 0 or c < 0 or
+                r == ROWS or c == COLS or
+                (r, c) in visit or board[r][c] not in node.children):
                 return
             visit.add((r, c))
             node = node.children[board[r][c]]
