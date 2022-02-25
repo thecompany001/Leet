@@ -17,7 +17,7 @@ class WordDictionary(object):
         cur.word = True
 
     def search(self, word):
-        def dfs(j, root)
+        def dfs(j, root):
             cur = root
 
             for i in range(j, len(word)):
@@ -25,7 +25,7 @@ class WordDictionary(object):
 
                 if c == ".":
                     for child in cur.children.values():
-                        if dfs(i + 1, child)
+                        if dfs(i + 1, child):
                             return True
                     return False
 
