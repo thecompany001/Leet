@@ -16,9 +16,17 @@ class MedianFinder(object):
             
             #uneven size?
             if len(small) > len(large) + 1:
-                val = heapq.heappush(self.large)
+                val = -1 heapq.heappop(self.small)
+                heapq.heappush(self.large, val)
+            if len(large) > len(small) + 1:
+                val = -1 * heapq.heappop(self.large)
+                heapq.heappush(self.small, -1 * val)
                 
-        
 
     def findMedian(self):
+        if len(small) > len(large):
+            return self.small[0]
+        if len(large) > len(small):
+            return self.large[0]
         
+        return (self.small[0] + self.large[0]) /2
