@@ -13,7 +13,6 @@ class Solution(object):
 
 
 # Recursive
-
 class Solution(object):
     def reverseList(self, head):
         
@@ -26,3 +25,77 @@ class Solution(object):
             head.next.next = head
         head.next = None
         return newHead
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# Iterative
+class Solution(object):
+    
+    
+    
+    
+    
+    
+    
+# Recursive
+class Solution(object):
+    
+    
+    
+    
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# Iterative
+class Solution(object):
+    
+    
+    
+    
+    
+    
+    
+# Recursive
+class Solution(object):
+    
+    
+    
+    
+    
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# Iterative
+class Solution(object):
+    
+    
+    
+    
+    
+    
+    
+# Recursive
+class Solution(object):
+    
+    
+    
+    
+    
+    
+    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# Iterative
+class Solution(object):
+    
+    
+    
+    
+    
+    
+    
+# Recursive
+class Solution(object):
